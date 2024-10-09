@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(85, 80, 80);
+    background-color: white;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #2f7f63;
-    color: white;
+    color: gray;
     padding: 10px 0;
 }
 
