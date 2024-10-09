@@ -12,6 +12,19 @@
     </header>
     <section>
         <p>This is a simple website to test features of HTML and CSS!</p>
+
+        <button id="toggleButton" onclick="toggleText()">OFF</button>
     </section>
+
+    <script>
+        function toggleText() {
+            var button = document.getElementById("toggleButton");
+            if (button.innerHTML === "OFF") {
+                button.innerHTML = "ON";
+            } else {
+                button.innerHTML = "OFF";
+            }
+        }
+    </script>
 </body>
 </html>
