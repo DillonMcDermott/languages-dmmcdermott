@@ -1,0 +1,15 @@
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.sourcelink.json
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/dillonmcdermott/projects/languages-dmmcdermott/c_sharp/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
